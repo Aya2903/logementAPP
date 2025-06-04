@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+  <meta charset="UTF-8">
+  <title>Logements étudiants à Toulouse</title>
+  <link rel="stylesheet" href="style.css">
+  <link rel="stylesheet" href="https://unpkg.com/leaflet/dist/leaflet.css" />
+</head>
+<body>
+  <h1>Recherche de logement étudiant</h1>
+
+  <form id="filters">
+    <label>Ville : <input type="text" id="ville" placeholder="Toulouse"></label>
+    <label>Prix max (€) : <input type="number" id="prixMax"></label>
+    <label>Type : 
+      <select id="type">
+        <option value="">Tous</option>
+        <option value="studio">Studio</option>
+        <option value="T1">T1</option>
+        <option value="T2">T2</option>
+      </select>
+    </label>
+    <label>Surface min (m²) : <input type="number" id="surfaceMin"></label>
+    <button type="submit">Filtrer</button>
+  </form>
+
+  <div id="map"></div>
+
+  <h2>Liste des logements</h2>
+  <div id="liste-logements" class="grille-logements"></div>
+
+  <script src="https://unpkg.com/leaflet/dist/leaflet.js"></script>
+  <script src="script.js"></script>
+</body>
+</html>

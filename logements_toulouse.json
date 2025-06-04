@@ -1,0 +1,302 @@
+[
+  {
+    "ville": "Toulouse",
+    "adresse": "57 rue des Lois",
+    "loyer": 534,
+    "surface": 45,
+    "type": "T1",
+    "latitude": 43.605083,
+    "longitude": 1.443338,
+    "image": "images/studio1.jpg"
+  },
+  {
+    "ville": "Toulouse",
+    "adresse": "94 rue Bayard",
+    "loyer": 947,
+    "surface": 42,
+    "type": "T1",
+    "latitude": 43.605167,
+    "longitude": 1.442233,
+    "image": "images/studio2.jpg"
+  },
+  {
+    "ville": "Toulouse",
+    "adresse": "44 rue des Lois",
+    "loyer": 776,
+    "surface": 23,
+    "type": "T3",
+    "latitude": 43.606285,
+    "longitude": 1.443196,
+    "image": "images/studio3.jpg"
+  },
+  {
+    "ville": "Toulouse",
+    "adresse": "41 rue du Taur",
+    "loyer": 730,
+    "surface": 52,
+    "type": "T2",
+    "latitude": 43.606887,
+    "longitude": 1.44184,
+    "image": "images/studio4.jpg"
+  },
+  {
+    "ville": "Toulouse",
+    "adresse": "74 rue Saint-Rome",
+    "loyer": 965,
+    "surface": 26,
+    "type": "studio",
+    "latitude": 43.607241,
+    "longitude": 1.441696,
+    "image": "images/studio5.jpg"
+  },
+  {
+    "ville": "Toulouse",
+    "adresse": "93 rue Alsace Lorraine",
+    "loyer": 677,
+    "surface": 54,
+    "type": "T2",
+    "latitude": 43.606214,
+    "longitude": 1.443197,
+    "image": "images/studio6.jpg"
+  },
+  {
+    "ville": "Toulouse",
+    "adresse": "63 rue Bayard",
+    "loyer": 913,
+    "surface": 46,
+    "type": "T2",
+    "latitude": 43.604275,
+    "longitude": 1.449608,
+    "image": "images/studio7.jpg"
+  },
+  {
+    "ville": "Toulouse",
+    "adresse": "91 rue Gabriel Péri",
+    "loyer": 977,
+    "surface": 51,
+    "type": "T3",
+    "latitude": 43.602961,
+    "longitude": 1.444924,
+    "image": "images/studio8.jpg"
+  },
+  {
+    "ville": "Toulouse",
+    "adresse": "67 rue de Metz",
+    "loyer": 801,
+    "surface": 29,
+    "type": "T3",
+    "latitude": 43.600512,
+    "longitude": 1.445412,
+    "image": "images/studio9.jpg"
+  },
+  {
+    "ville": "Toulouse",
+    "adresse": "15 rue Bayard",
+    "loyer": 592,
+    "surface": 50,
+    "type": "T2",
+    "latitude": 43.600317,
+    "longitude": 1.445429,
+    "image": "images/studio10.jpg"
+  },
+  {
+    "ville": "Toulouse",
+    "adresse": "59 avenue de Lyon",
+    "loyer": 657,
+    "surface": 48,
+    "type": "studio",
+    "latitude": 43.603063,
+    "longitude": 1.447436,
+    "image": "images/studio11.jpg"
+  },
+  {
+    "ville": "Toulouse",
+    "adresse": "87 rue Bayard",
+    "loyer": 607,
+    "surface": 34,
+    "type": "studio",
+    "latitude": 43.608862,
+    "longitude": 1.439049,
+    "image": "images/studio12.jpg"
+  },
+  {
+    "ville": "Toulouse",
+    "adresse": "54 rue des Couteliers",
+    "loyer": 442,
+    "surface": 33,
+    "type": "studio",
+    "latitude": 43.604017,
+    "longitude": 1.443982,
+    "image": "images/studio13.jpg"
+  },
+  {
+    "ville": "Toulouse",
+    "adresse": "24 rue Bayard",
+    "loyer": 639,
+    "surface": 27,
+    "type": "T1",
+    "latitude": 43.603216,
+    "longitude": 1.446956,
+    "image": "images/studio14.jpg"
+  },
+  {
+    "ville": "Toulouse",
+    "adresse": "40 rue Bayard",
+    "loyer": 500,
+    "surface": 36,
+    "type": "studio",
+    "latitude": 43.604583,
+    "longitude": 1.449708,
+    "image": "images/studio15.jpg"
+  },
+  {
+    "ville": "Toulouse",
+    "adresse": "60 rue des Lois",
+    "loyer": 630,
+    "surface": 22,
+    "type": "T3",
+    "latitude": 43.604746,
+    "longitude": 1.449297,
+    "image": "images/studio16.jpg"
+  },
+  {
+    "ville": "Toulouse",
+    "adresse": "69 boulevard de Strasbourg",
+    "loyer": 824,
+    "surface": 46,
+    "type": "T3",
+    "latitude": 43.603297,
+    "longitude": 1.446938,
+    "image": "images/studio17.jpg"
+  },
+  {
+    "ville": "Toulouse",
+    "adresse": "73 rue Saint-Rome",
+    "loyer": 491,
+    "surface": 17,
+    "type": "T3",
+    "latitude": 43.601124,
+    "longitude": 1.449819,
+    "image": "images/studio18.jpg"
+  },
+  {
+    "ville": "Toulouse",
+    "adresse": "49 rue Bayard",
+    "loyer": 737,
+    "surface": 36,
+    "type": "studio",
+    "latitude": 43.601244,
+    "longitude": 1.445408,
+    "image": "images/studio19.jpg"
+  },
+  {
+    "ville": "Toulouse",
+    "adresse": "33 rue de Metz",
+    "loyer": 467,
+    "surface": 30,
+    "type": "T3",
+    "latitude": 43.605649,
+    "longitude": 1.442691,
+    "image": "images/studio20.jpg"
+  },
+  {
+    "ville": "Toulouse",
+    "adresse": "9 rue Bayard",
+    "loyer": 470,
+    "surface": 22,
+    "type": "T3",
+    "latitude": 43.601133,
+    "longitude": 1.448048,
+    "image": "images/studio21.jpg"
+  },
+  {
+    "ville": "Toulouse",
+    "adresse": "77 rue du Taur",
+    "loyer": 1000,
+    "surface": 59,
+    "type": "T3",
+    "latitude": 43.601187,
+    "longitude": 1.445458,
+    "image": "images/studio22.jpg"
+  },
+  {
+    "ville": "Toulouse",
+    "adresse": "98 rue des Couteliers",
+    "loyer": 493,
+    "surface": 55,
+    "type": "T3",
+    "latitude": 43.601006,
+    "longitude": 1.448384,
+    "image": "images/studio23.jpg"
+  },
+  {
+    "ville": "Toulouse",
+    "adresse": "56 rue Bayard",
+    "loyer": 897,
+    "surface": 41,
+    "type": "T1",
+    "latitude": 43.601908,
+    "longitude": 1.446055,
+    "image": "images/studio24.jpg"
+  },
+  {
+    "ville": "Toulouse",
+    "adresse": "28 rue de Metz",
+    "loyer": 601,
+    "surface": 50,
+    "type": "T2",
+    "latitude": 43.608985,
+    "longitude": 1.439742,
+    "image": "images/studio25.jpg"
+  },
+  {
+    "ville": "Toulouse",
+    "adresse": "98 rue des Lois",
+    "loyer": 627,
+    "surface": 44,
+    "type": "T2",
+    "latitude": 43.606562,
+    "longitude": 1.442816,
+    "image": "images/studio26.jpg"
+  },
+  {
+    "ville": "Toulouse",
+    "adresse": "26 rue de Metz",
+    "loyer": 967,
+    "surface": 50,
+    "type": "T3",
+    "latitude": 43.606275,
+    "longitude": 1.443267,
+    "image": "images/studio27.jpg"
+  },
+  {
+    "ville": "Toulouse",
+    "adresse": "22 avenue de Lyon",
+    "loyer": 909,
+    "surface": 52,
+    "type": "T2",
+    "latitude": 43.601673,
+    "longitude": 1.449833,
+    "image": "images/studio28.jpg"
+  },
+  {
+    "ville": "Toulouse",
+    "adresse": "76 rue des Couteliers",
+    "loyer": 675,
+    "surface": 38,
+    "type": "T2",
+    "latitude": 43.604994,
+    "longitude": 1.450704,
+    "image": "images/studio29.jpg"
+  },
+  {
+    "ville": "Toulouse",
+    "adresse": "76 rue du Taur",
+    "loyer": 414,
+    "surface": 56,
+    "type": "studio",
+    "latitude": 43.606885,
+    "longitude": 1.441349,
+    "image": "images/studio30.jpg"
+  }
+]
