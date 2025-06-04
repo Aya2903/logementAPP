@@ -7,7 +7,7 @@
     "type": "T1",
     "latitude": 43.605083,
     "longitude": 1.443338,
-    "image": "images/studio1.jpg"
+    "image": "images/Studio1.jpg"
   },
   {
     "ville": "Toulouse",
@@ -17,7 +17,7 @@
     "type": "T1",
     "latitude": 43.605167,
     "longitude": 1.442233,
-    "image": "images/studio2.jpg"
+    "image": "images/Studio2.jpg"
   },
   {
     "ville": "Toulouse",
@@ -27,7 +27,7 @@
     "type": "T3",
     "latitude": 43.606285,
     "longitude": 1.443196,
-    "image": "images/studio3.jpg"
+    "image": "images/Studio3.jpg"
   },
   {
     "ville": "Toulouse",
@@ -37,7 +37,7 @@
     "type": "T2",
     "latitude": 43.606887,
     "longitude": 1.44184,
-    "image": "images/studio4.jpg"
+    "image": "images/Studio4.jpg"
   },
   {
     "ville": "Toulouse",
@@ -47,7 +47,7 @@
     "type": "studio",
     "latitude": 43.607241,
     "longitude": 1.441696,
-    "image": "images/studio5.jpg"
+    "image": "images/Studio5.jpg"
   },
   {
     "ville": "Toulouse",
@@ -57,7 +57,7 @@
     "type": "T2",
     "latitude": 43.606214,
     "longitude": 1.443197,
-    "image": "images/studio6.jpg"
+    "image": "images/Studio6.jpg"
   },
   {
     "ville": "Toulouse",
@@ -67,7 +67,7 @@
     "type": "T2",
     "latitude": 43.604275,
     "longitude": 1.449608,
-    "image": "images/studio7.jpg"
+    "image": "images/Studio7.jpg"
   },
   {
     "ville": "Toulouse",
@@ -77,7 +77,7 @@
     "type": "T3",
     "latitude": 43.602961,
     "longitude": 1.444924,
-    "image": "images/studio8.jpg"
+    "image": "images/Studio8.jpg"
   },
   {
     "ville": "Toulouse",
@@ -87,7 +87,7 @@
     "type": "T3",
     "latitude": 43.600512,
     "longitude": 1.445412,
-    "image": "images/studio9.jpg"
+    "image": "images/Studio9.jpg"
   },
   {
     "ville": "Toulouse",
@@ -97,7 +97,7 @@
     "type": "T2",
     "latitude": 43.600317,
     "longitude": 1.445429,
-    "image": "images/studio10.jpg"
+    "image": "images/Studio10.jpg"
   },
   {
     "ville": "Toulouse",
@@ -107,7 +107,7 @@
     "type": "studio",
     "latitude": 43.603063,
     "longitude": 1.447436,
-    "image": "images/studio11.jpg"
+    "image": "images/Studio11.jpg"
   },
   {
     "ville": "Toulouse",
@@ -117,7 +117,7 @@
     "type": "studio",
     "latitude": 43.608862,
     "longitude": 1.439049,
-    "image": "images/studio12.jpg"
+    "image": "images/Studio12.jpg"
   },
   {
     "ville": "Toulouse",
@@ -127,7 +127,7 @@
     "type": "studio",
     "latitude": 43.604017,
     "longitude": 1.443982,
-    "image": "images/studio13.jpg"
+    "image": "images/Studio13.jpg"
   },
   {
     "ville": "Toulouse",
@@ -137,7 +137,7 @@
     "type": "T1",
     "latitude": 43.603216,
     "longitude": 1.446956,
-    "image": "images/studio14.jpg"
+    "image": "images/Studio14.jpg"
   },
   {
     "ville": "Toulouse",
@@ -147,7 +147,7 @@
     "type": "studio",
     "latitude": 43.604583,
     "longitude": 1.449708,
-    "image": "images/studio15.jpg"
+    "image": "images/Studio15.jpg"
   },
   {
     "ville": "Toulouse",
@@ -157,7 +157,7 @@
     "type": "T3",
     "latitude": 43.604746,
     "longitude": 1.449297,
-    "image": "images/studio16.jpg"
+    "image": "images/Studio16.jpg"
   },
   {
     "ville": "Toulouse",
@@ -167,7 +167,7 @@
     "type": "T3",
     "latitude": 43.603297,
     "longitude": 1.446938,
-    "image": "images/studio17.jpg"
+    "image": "images/Studio17.jpg"
   },
   {
     "ville": "Toulouse",
@@ -177,7 +177,7 @@
     "type": "T3",
     "latitude": 43.601124,
     "longitude": 1.449819,
-    "image": "images/studio18.jpg"
+    "image": "images/Studio18.jpg"
   },
   {
     "ville": "Toulouse",
@@ -187,7 +187,7 @@
     "type": "studio",
     "latitude": 43.601244,
     "longitude": 1.445408,
-    "image": "images/studio19.jpg"
+    "image": "images/Studio19.jpg"
   },
   {
     "ville": "Toulouse",
@@ -197,7 +197,7 @@
     "type": "T3",
     "latitude": 43.605649,
     "longitude": 1.442691,
-    "image": "images/studio20.jpg"
+    "image": "images/Studio20.jpg"
   },
   {
     "ville": "Toulouse",
@@ -207,7 +207,7 @@
     "type": "T3",
     "latitude": 43.601133,
     "longitude": 1.448048,
-    "image": "images/studio21.jpg"
+    "image": "images/Studio21.jpg"
   },
   {
     "ville": "Toulouse",
@@ -217,7 +217,7 @@
     "type": "T3",
     "latitude": 43.601187,
     "longitude": 1.445458,
-    "image": "images/studio22.jpg"
+    "image": "images/Studio22.jpg"
   },
   {
     "ville": "Toulouse",
@@ -227,7 +227,7 @@
     "type": "T3",
     "latitude": 43.601006,
     "longitude": 1.448384,
-    "image": "images/studio23.jpg"
+    "image": "images/Studio23.jpg"
   },
   {
     "ville": "Toulouse",
@@ -237,7 +237,7 @@
     "type": "T1",
     "latitude": 43.601908,
     "longitude": 1.446055,
-    "image": "images/studio24.jpg"
+    "image": "images/Studio24.jpg"
   },
   {
     "ville": "Toulouse",
@@ -247,7 +247,7 @@
     "type": "T2",
     "latitude": 43.608985,
     "longitude": 1.439742,
-    "image": "images/studio25.jpg"
+    "image": "images/Studio25.jpg"
   },
   {
     "ville": "Toulouse",
@@ -257,7 +257,7 @@
     "type": "T2",
     "latitude": 43.606562,
     "longitude": 1.442816,
-    "image": "images/studio26.jpg"
+    "image": "images/Studio26.jpg"
   },
   {
     "ville": "Toulouse",
@@ -267,7 +267,7 @@
     "type": "T3",
     "latitude": 43.606275,
     "longitude": 1.443267,
-    "image": "images/studio27.jpg"
+    "image": "images/Studio27.jpg"
   },
   {
     "ville": "Toulouse",
@@ -277,7 +277,7 @@
     "type": "T2",
     "latitude": 43.601673,
     "longitude": 1.449833,
-    "image": "images/studio28.jpg"
+    "image": "images/Studio28.jpg"
   },
   {
     "ville": "Toulouse",
@@ -287,7 +287,7 @@
     "type": "T2",
     "latitude": 43.604994,
     "longitude": 1.450704,
-    "image": "images/studio29.jpg"
+    "image": "images/Studio29.jpg"
   },
   {
     "ville": "Toulouse",
@@ -297,6 +297,6 @@
     "type": "studio",
     "latitude": 43.606885,
     "longitude": 1.441349,
-    "image": "images/studio30.jpg"
+    "image": "images/Studio30.jpg"
   }
 ]
